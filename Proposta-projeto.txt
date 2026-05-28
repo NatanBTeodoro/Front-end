@@ -1,0 +1,4 @@
+Visão do cliente
+
+Pizzaria, pagina inicial com um barra de menu de pizzas, bebidas, e cadastro, no rodapé apenas "Criado por Natan 2026" sempre, e no meio da tela principal um botão de "Peça Agora!", que caso não esteja cadastrado vai levar a pagina de cadastro, a pagina de cadastro deve ter um formulário com Nome completo, cpf , Cep ( talvez eu só faça escrito manualmente) usuario e senha. após cadastrado ele vai ter a opção de "Perfil" onde vai estar as suas informações 
+que pode ser alterado apenas a senha e usuário, "Fazer pedido" no menu superior, quando dentro dele, uma opção de duas abas, pizzas e bebidas, quando clicado em um o outro minimiza para melhorar visualização uma lista de Pizzas aparece junto de sua breve descrição, um valor ao lado e um + para adicionar aos pedidos, o mesmo para bebidas porem sem Descrição apenas nome da bebida( suco de uva,guarana,coca, pepsi, água), depois em baixo possui um botão de pedir verde e um cancelar vermelho
